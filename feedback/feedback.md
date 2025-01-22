@@ -23,7 +23,7 @@
 ## Positive
 * Found it more useful than day 1
 * I enjoyed the course very much. Many thanks. I hope to attend the intermediate course in the future.
-* Sticky notes for questions. Good pace. Goor resource material. Great instructors.
+* Sticky notes for questions. Good pace. Good resource material. Great instructors.
 
 ## Negative
 * It would be better to have the session only in the morning for more efficiency.
