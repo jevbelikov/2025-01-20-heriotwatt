@@ -8,6 +8,7 @@
 * Learning material is useful and sufficient.
 * Looking for task aoutomation.
 * Very nice interactive sessions. It's also very well paced.
+* I particularly enjoyed the section on shell scripting. I feel inspired to use shell scripting more often.
 
 ## Negative
 * the pace is a bit too high, so it requires work?(unclear) to follow
@@ -16,6 +17,7 @@
 * two days are short for this wonderful workshop
 * should always happen offline. face to face.
 * some times rather slow, other timestoo fast
+* I think my Python skills were probably beyond that we were covering. However I am still very keen on learning about git and the shell scripting. Perhaps it would be worth providing the course as smaller modules.
 
 
 # Day 2
